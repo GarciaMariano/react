@@ -11,7 +11,7 @@ function App() {
   return (
     <>
     <NavBar />
-      <ItemListContainer greeting={'Las Rapan'}/>
+      <ItemListContainer greeting={'Zapatillita'}/>
     </>
    
   );
